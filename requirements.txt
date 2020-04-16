@@ -1,0 +1,6 @@
+mxnet
+mxnet-model-server
+numpy
+Pillow
+pybind11
+hnswlib
